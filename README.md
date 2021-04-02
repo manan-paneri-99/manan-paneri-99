@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=manan-paneri-99&color=green)
 - 👋 Hi, I’m @manan-paneri-99
 -  I’m interested in Deep learning and Natural Language Processing
 -  I’m currently a pre-final year student at BITS Pilani, Pilani campus. I am currently working as ML intern at Pepper content, previously Data science intern at Tensr.AI
