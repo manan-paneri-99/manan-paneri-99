@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=manan-paneri-99&color=green)
 - 👋 Hi, I’m @manan-paneri-99
--  I’m interested in Deep learning and Natural Language Processing
--  I’m currently a pre-final year student at BITS Pilani, Pilani campus. I am currently working as ML intern at Pepper content, previously Data science intern at Tensr.AI
+-  I have 2+ years of experience working on software solutions at scale and building systems from the ground up. I have worked on multi-faceted business problems and consistently delivered resilient products that stand up to the demands of modern technology landscapes.
+-  I have had diverse experiences from working on B2B catalog products for one of India's largest quick commerce platforms to developing the discount engine focussed on improving the checkout experience of D2C customers.
+-  I have also built the recommendation engine for India's biggest content marketing platform and tried my hands on GPT-3 products before it was cool ;)
+-  I’m currently working as Software Development Engineer at Swiggy 
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/manan-paneri/) and [Twitter](https://twitter.com/PaneriManan)
 
 <!---
