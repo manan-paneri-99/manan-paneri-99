@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Manan Paneri
 
-Senior Software Engineer with 4+ years of experience building scalable backend systems, cloud-native infrastructure, and AI-powered products.
+Senior Software Engineer with 5 years of experience building scalable backend systems, cloud-native infrastructure, and AI-powered products.
 
 - 🤖 Building **AI agents and LLM platforms** using MCP, tool-calling, persistent memory, and multi-app integrations.
 - ⚡ Experienced in **distributed systems, event-driven architectures, and high-throughput data pipelines**.
